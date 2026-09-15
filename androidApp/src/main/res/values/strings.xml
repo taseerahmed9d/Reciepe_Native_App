@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecipeBox</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="offline_banner">You\'re offline. Showing saved recipes.</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    <string name="search_recipes">Search recipes</string>
+    <string name="search_placeholder">Try \"pasta\" or \"chicken\"</string>
+    <string name="empty_home">No recipes yet. Pull to refresh when you\'re online.</string>
+    <string name="empty_search">Type a recipe name to get started.</string>
+    <string name="empty_search_results">No recipes match that search.</string>
+    <string name="empty_favorites">Save recipes with the heart icon to find them here, even offline.</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="favorite">Favorite</string>
+    <string name="unfavorite">Remove from favorites</string>
+    <string name="back">Back</string>
+    <string name="category_area">%1$s · %2$s</string>
+</resources>
